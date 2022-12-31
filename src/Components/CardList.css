@@ -1,0 +1,45 @@
+.keyIndicators {
+    display: flex;
+    min-width: 350px;
+    width: 25%;
+}
+.keyIndicators div{
+    margin-right: 20px;
+}
+.runs {
+    background-color: #2e7d32;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+.extras {
+    background-color: #2e7d32;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+.wicket {
+    background-color: red;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+.leg-by {
+    background-color: rgb(243, 212, 11);
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+
+.card {
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+@media only screen and (max-width: 600px) {
+    .card .card {
+      width: 96%;
+      padding: 2%;
+    }
+  }

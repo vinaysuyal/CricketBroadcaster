@@ -1,0 +1,14 @@
+.active {
+    color: white;
+    border-bottom: 2px red solid;
+}
+.nav-link
+{
+    margin-left: 20px;
+  text-decoration: none;
+}
+.nav-link:visited
+{
+color: white;
+  text-decoration: none;
+}

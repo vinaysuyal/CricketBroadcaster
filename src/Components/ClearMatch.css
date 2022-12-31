@@ -1,0 +1,10 @@
+.modal {
+    width: fit-content;
+    margin: auto;
+}
+.modal .card {
+    opacity: 1;
+    background-color: white;
+    margin-top: 30vh;
+    width: fit-content;
+}
